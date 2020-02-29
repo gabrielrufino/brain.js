@@ -171,7 +171,7 @@ output = net.run([1, 1]) // [0]
 ```
 
 However, there is no reason to use a neural network to figure out XOR. (-: So, here is a more involved, realistic example:
-[Demo: training a neural network to recognize color contrast](https://brain.js.org/).
+[Demo: training a neural network to recognize color contrast](https://brain.js.org/#/examples).
 
 ## More Examples
 
